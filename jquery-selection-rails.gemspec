@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Masahiro Saito"]
   s.email       = ["camelmasa@gmail.com"]
   s.homepage    = "https://github.com/camelmasa/jquery-selection-rails"
-  s.summary     = %q{}
-  s.description = %q{}
+  s.summary     = %q{jQuery Selectin for Rails}
+  s.description = %q{jQuery Selectin for Rails}
 
   s.rubyforge_project = "jquery-selection-rails"
 
