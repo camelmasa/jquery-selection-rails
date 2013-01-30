@@ -1,17 +1,31 @@
-# jQuery Selectin for Rails
+jquery-selection-rails
+===================
 
-## Installing Gem
+jquery.selection for rails.
+https://github.com/madapaja/jquery.selection
 
-    gem "jquery-selection-rails"
 
-## Using the javascripts
+Installation  
+=======
 
-Require jquery-selection in your app/assets/application.js file.
+Add this extension to your Gemfile:
 
-    //= require jquery-selection
+```ruby
+gem "jquery-selection-rails"
+```
 
-## Thanks
+Then run:
+
+```
+bundle install
+```
+
+Add application.js (Ruby on Rails):
+
+```
+//= require jquery-selection
+```
+
+Thanks
+=======
 Thanks to [IWASAKI Koji](https://github.com/madapaja) for writing an awesome selection plugin.
-
-## License
-Copyright (c) 2012 Masahiro Saito
